@@ -1,7 +1,10 @@
-***Programming Assignment: Creating an HTML Document***
+### ***Programming Assignment: Creating an HTML Document***
+
+<hr>
 
 _Solution:_
 
+***HTML File***
 ```html
 
 <!DOCTYPE html>
