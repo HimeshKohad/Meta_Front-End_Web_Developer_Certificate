@@ -1,6 +1,6 @@
 ***Knowledge Check - Getting Started with HTML***
 
-Solutions:
+_Solutions:_
 
 ![image](https://user-images.githubusercontent.com/107066424/211773759-98019101-e828-48ad-b601-b75e5854ed1e.png)
 
