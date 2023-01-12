@@ -1,6 +1,6 @@
 ***Knowledge Check - CSS Basics***
 
-Solutions:
+_Solutions:_
 
 ![image](https://user-images.githubusercontent.com/107066424/212045231-a00a453e-2302-4d1f-852b-28cb82d62f07.png)
 
